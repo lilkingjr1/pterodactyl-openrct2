@@ -1,4 +1,4 @@
-FROM openrct2/openrct2-cli:0.2.3
+FROM openrct2/openrct2-cli:develop
 
 USER root
 
